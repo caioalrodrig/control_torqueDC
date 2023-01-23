@@ -1,2 +1,2 @@
 # torqueDCMach
-Torque P.I implementation for DC motor
+Torque control P.I implementation for DC motor
